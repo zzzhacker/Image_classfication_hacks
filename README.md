@@ -1,5 +1,5 @@
 # Image Classfication Hacks
-__A single notebook where I try to explain the best practices of to improve Image classification accuracy with proper analysis.__
+__A single notebook where I try to explain the best practices to improve Image classification accuracy with proper analysis.__
 
 > Here I try to explain some useful techniques and cutting edge research ideas in short intutive and experiemntal way some htem are following it's mainly come from Fastai and jeremy Horward.
 
